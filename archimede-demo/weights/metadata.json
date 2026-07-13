@@ -1,0 +1,14 @@
+{
+  "model": "resnet-demo",
+  "version": "v0.1-demo",
+  "date": "2026-07-13",
+  "dataset": "l2rpn_neurips_2020",
+  "hyperparameters": {
+    "n_blocks": 3,
+    "hidden_dim": 64,
+    "lr": 0.001,
+    "epochs": 5
+  },
+  "code_sha": "<replace-with-git-sha>",
+  "notes": "Demo weights placeholder. Run train_resnet.py to create real weights."
+}

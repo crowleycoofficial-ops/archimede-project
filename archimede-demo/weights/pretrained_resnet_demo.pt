@@ -1,0 +1,2 @@
+DEMO_WEIGHTS_PLACEHOLDER: This is a placeholder for demo pretrained ResNet weights.
+Run archimede-demo/train_resnet.py to generate real weights locally and replace this file with the produced .pt.
