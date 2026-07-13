@@ -1,0 +1,6 @@
+# Ignore Python artifacts and results
+__pycache__/
+*.pyc
+results/
+.env
+venv/
